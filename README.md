@@ -2,7 +2,7 @@
 
 ## Study Information
 This package supports the paper:  
-**"Analysis of the Role of GitHub Discussions in Open Source Software Development Environment"**  
+**"GitHub Discussions as a Tool for Onboarding Newcomers in OSS"**  
 
 ## 📂 Package Structure
 ```
@@ -90,3 +90,4 @@ y_i = α + β·time_i + γ·intervention_i + δ·time_after_intervention_i + η�
 
 ## License
 CC-BY 4.0 International
+
